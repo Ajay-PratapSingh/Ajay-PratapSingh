@@ -26,7 +26,7 @@
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Lifting and ESports**❤
 - 🚀 You can find my project at...**<a href="https://github.com/Ajay-PratapSingh/Movie-Library">Github</a>**
-- 📫 How to reach me **<a href="mailto:ajaysinghh2001@gmail.com" target="_blank">Ajay Pratap Singh</a>**
+- 📫 How to reach me **<a href="mailto:ajaysinghh2001@gmail.com" target="_blank">ajaysinghh2001@gmail.com</a>**
 <h4>My Coding Profiles:</h4>
 <p align = "left">
 	<a href = "https://www.hackerrank.com/ajaypr2959"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" height = "40px" width="40px" ></a>
@@ -45,11 +45,9 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+ <img style="margin: auto;" src="https://icons-for-free.com/iconfiles/png/512/logo+my+query+server+sql+icon-1320184811372606623.png" alt=mysql width="60" height="60"/> 
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/><img style="margin: auto;" src="https://www.pngitem.com/pimgs/m/341-3412303_go-programming-language-logo-hd-png-download.png" alt=express width="80" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
