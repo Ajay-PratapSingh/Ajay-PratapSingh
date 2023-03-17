@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/ajay-pratap-singh-83a424192/">
-    <img src=""https://img.shields.io/badge/linkedIn-Ajay-blue/"">
+    <img src="https://img.shields.io/badge/linkedIn-Ajay-blue/">
   </a>
 </p>
 
